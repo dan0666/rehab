@@ -1,4 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "\n - Ištaisyta klaida su vežimėliu.\n - Pridėta nauja komanda /checkrep.\n - Optimizuotas serverio darbas."
+  "version": "1.0.2",
+  "date": "2025-11-19",
+  "priority": "High",
+  "changelog": "Fixed critical database exploit.\nOptimized resource tick usage.\nAdded new configuration options."
 }
