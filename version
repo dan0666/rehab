@@ -1,0 +1,4 @@
+{
+  "version": "1.0.1",
+  "changelog": "\n - Ištaisyta klaida su vežimėliu.\n - Pridėta nauja komanda /checkrep.\n - Optimizuotas serverio darbas."
+}
