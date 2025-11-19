@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "date": "2025-11-19",
   "priority": "High",
-  "changelog": "Fixed critical database exploit.\nOptimized resource tick usage.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options.\nAdded new configuration options"
+  "changelog": "Current no updates found.\nYou do not need push fxmanifest.lua to newer version"
 }
