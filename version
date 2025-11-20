@@ -2,5 +2,5 @@
   "version": "1.0.1",
   "date": "2025-11-21",
   "priority": "High",
-  "changelog": "Fixed database information connection with UI.\nAdded Public & Admin webhooks.\nCreated automaticly database installer.\nFixed some UI issue's.\nAdded editable chat message.\nAdded editable notifications\nAdded new command /repstatus."
+  "changelog": "Fixed database information connection with UI.\nAdded Public & Admin webhooks.\nCreated automaticly database installer.\nFixed some UI issue's.\nAdded editable chat message.\nAdded editable notifications.\nAdded new command /repstatus."
 }
