@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "date": "2025-11-19",
+  "date": "2025-11-21",
   "priority": "High",
-  "changelog": "Current no updates found.\nYou do not need push fxmanifest.lua to newer version"
+  "changelog": "Fixed database information connection with UI.\nAdded Public & Admin webhooks.\nCreated automaticly database installer.\nFixed some UI issue's.\nAdded editable chat message.\nAdded editable notifications\nAdded new command /repstatus."
 }
