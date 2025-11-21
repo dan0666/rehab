@@ -2,5 +2,5 @@
   "version": "1.0.1",
   "date": "2025-11-21",
   "priority": "High",
-  "changelog": "Fixed database information connection with UI.\nAdded Public & Admin webhooks.\nCreated automaticly database installer.\nFixed some UI issue's.\nAdded editable chat message.\nAdded editable notifications.\nAdded new command /repstatus."
+  "changelog": "Added Config.Psycho future (Please read UPDATES.md file)\nAdded Config.ReactionAfkCheck future (Please read UPDATES.md file)\nFixed the issue where UI questions creation/editing window would not close using the ESC key.\nAdded missing translate text."
 }
