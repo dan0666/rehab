@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "date": "2025-11-29",
+  "version": "1.0.4",
+  "date": "2025-11-30",
   "priority": "High",
-  "changelog": "Added missed questions delete window.\nAdded in Troll actions to possible change player ped model.\nNow possible use char prefix's in Config.PunishmentMode.\nAdded in Player Details, punishment log section extra filter of 'All logs, Punishment Only, Edits Only'.\nFixed minor issues.\nAdded Troll Players logs into Admin Log."
+  "changelog": "Added if player has <0 reputation, in rehabilitation center his has simple afk check (becouse player has wheelchair and can't do "VOICE IN HAD" afk commands)\nFixed qbcore framework revive when player is died in rehabilitation center."
 }
