@@ -2,5 +2,5 @@
   "version": "1.0.4",
   "date": "2025-11-30",
   "priority": "High",
-  "changelog": "Added if player has <0 reputation, in rehabilitation center his has simple afk check (becouse player has wheelchair and can't do "VOICE IN HAD" afk commands)\nFixed qbcore framework revive when player is died in rehabilitation center."
+  "changelog": "Added if player has <0 reputation, in rehabilitation center his has simple afk check (becouse player has wheelchair and can't do 'VOICE IN HAD' afk commands)\nFixed qbcore framework revive when player is died in rehabilitation center."
 }
