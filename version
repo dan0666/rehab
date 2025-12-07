@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "date": "2025-11-30",
+  "version": "1.0.5",
+  "date": "2025-12-07",
   "priority": "High",
-  "changelog": "Added if player has <0 reputation, in rehabilitation center his has simple afk check (becouse player has wheelchair and can't do 'VOICE IN HAD' afk commands)\nFixed qbcore framework revive when player is died in rehabilitation center."
+  "changelog": "Created a new function for NCZ zones. If a player kills another player in an NCZ zone, the system will automatically send them to the rehabilitation center.\nFixed the rep ID command so it can now be used for all players.\nFixed the Admin Management / Offline Player Search function:\n3.1. If set to “license”, it now shows only one person.\n3.2. If set to “char”, it shows all characters belonging to that person.\nFixed an issue where a player could pull out visible guns in the rehabilitation center.\nAdded an option in the admin menu to turn off system update notifications until the next update.\nAdded a new combat-log function: if a player has active combat status, they cannot log out for the configured time set in config.lua.\nFixed a simple AFK check issue: when a player is released from rehabilitation, the AFK check is now active.\nUpdated several UI elements.\nFixed an issue with Overall Statistics in player details.\nAdded filter options in the Statistics section.\nFixed an issue with Times In and reputation. Previously, when a punishment’s reputation time ended, Times In would not reset, and active punishment time could be reset incorrectly.\nAdded a citizenID check for the QBCore punishment method in sv_config.lua.\nChanged time intervals to a simpler method.\nRemoved the iak_wheelchair (Wheel chair addon) model from the intersystems_rehab system. Please ensure the iak_wheelchair folder is installed separately."
 }
